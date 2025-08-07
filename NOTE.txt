@@ -1,0 +1,16 @@
+
+Control Shift P
+
+
+PROPS => is for passing different datas into different components.
+COMPONENTS => Can be used as many times as necessary.
+                Always declare all your components in the top level.
+
+
+JSX => Syntax to describe what components look like and how they work.
+        It is an extension of Javascript that allows us to embed Javascript, CSS and React components into HTML.
+
+
+
+
+
